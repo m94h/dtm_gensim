@@ -14,3 +14,5 @@ The following tutorial explains how to use Dynamic Topic Modelling (Blei and Laf
 https://code.google.com/p/princeton-statistical-learning/downloads/detail?name=dtm_release-0.8.tgz
 
 The procedure here was used during my work that led to the research article “Twitter in Academic Conferences: Usage, Networking and Participation over Time” (Wen et al, 2014). Here we analyzed tweets posted during academic conferences in the Computer Science domain, and specifically we obtain the topic evolution over five years.
+
+You can download the tutorial here http://socialcomputing.ing.puc.cl/uploads/DynamicTopicModellingTutorial.pdf
